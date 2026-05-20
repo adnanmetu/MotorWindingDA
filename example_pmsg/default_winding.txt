@@ -1,0 +1,22 @@
+			 ****** Winding Layout ******
+
+Periodic Multiper: 1
+Constant Turns: true
+Constant Pitch: true
+
+Coil Num		Phase		Turns		In Slot	Out Slot
+Coil_1		A		1		1T		2B
+Coil_2		-C		1		2T		3B
+Coil_3		-A		1		3T		4B
+Coil_4		C		1		4T		5B
+Coil_5		A		1		5T		6B
+Coil_6		B		1		6T		7B
+Coil_7		-A		1		7T		8B
+Coil_8		-B		1		8T		9B
+Coil_9		A		1		9T		10B
+Coil_10		B		1		10T		11B
+Coil_11		C		1		11T		12B
+Coil_12		-B		1		12T		13B
+Coil_13		-C		1		13T		14B
+Coil_14		B		1		14T		15B
+Coil_15		C		1		15T		1B

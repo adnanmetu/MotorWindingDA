@@ -6,7 +6,7 @@ $begin 'InterrogationCache'
 			IgnoreUnclassifiedObjects=true
 			SkipIntersectionChecks=false
 		$end 'Options'
-		Status=true
+		Status=false
 	$end 'ValidationStatus'
 	$begin 'BodyCaches'
 		$begin '6'
@@ -757,6 +757,14 @@ $begin 'InterrogationCache'
 				Valid=true
 			$end 'BoundingBox'
 		$end '1270'
+		$begin '1574'
+			$begin 'BoundingBox'
+				Low[3: -28.000000000000004, -19.798989873223331, 0]
+				High[3: -19.798989873223338, 0, 0]
+				Exact=true
+				Valid=true
+			$end 'BoundingBox'
+		$end '1574'
 	$end 'BodyCaches'
 	$begin 'IntersectionCaches'
 	$end 'IntersectionCaches'
